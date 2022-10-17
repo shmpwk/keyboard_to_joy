@@ -1,0 +1,24 @@
+# PlayStation 4 Dual Shock Controller Input Mapping
+/**:
+  ros__parameters:
+    axes: 6
+    buttons: 12
+
+    left: 0
+    right: 0
+    up: 1
+    down: 1
+
+    x_a: 1
+    o_b: 2
+    square_x: 0
+    triangle_y: 3
+
+    l1: 4
+    r1: 5
+    l2: 6
+    r2: 7
+
+    share: 8
+    options: 9
+    ps: 12

@@ -1,0 +1,4 @@
+<launch>
+  <arg name="joy_dev" default="f710" />
+  <include file="$(find-pkg-share keyboard_to_joy)/launch/keyboard_to_joy.launch.py" />
+</launch>
